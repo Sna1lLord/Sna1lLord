@@ -2,7 +2,7 @@
 - My name is Emanuel!
 - I am 14 years old
 
-# Favourite Languages 🌱
+# What I Love 🌱
 - C / C++
 - Python
 - C#
